@@ -351,7 +351,7 @@ body{
 
 .help p{
   text-align: center;
-  padding-top: 2rem;
+  padding: 2rem 2rem 0 2rem;
   color: #666;
   font-size: 1.5rem;
 }
@@ -1002,7 +1002,7 @@ body{
 .header-items .header-text{
     text-align: center;
     /* padding: 5rem 0; */
-    padding-top: 5rem;
+    padding-top: 7rem;
     padding-bottom: 1rem;
 }
 
@@ -1035,7 +1035,7 @@ body{
 .new-box{
   height: 70%;
   width: 90%;
-  margin: 1.7rem;
+  margin: 1.9rem;
   padding: 3rem 1rem;
 
 }
