@@ -215,6 +215,7 @@ body{
 .name-scholar h1{
   font-size: 2rem;
   color: #4b4c4b;
+  text-align: center;
 
 }
 .help-2{
@@ -835,6 +836,12 @@ body{
   padding: 3rem 1rem;
 
 }
+.name-scholar h1{
+  font-size: 1.7rem;
+  color: #4b4c4b;
+  text-align: center;
+
+}
 
 .new-box .new-text h1{
   font-size: 3rem;
@@ -1043,6 +1050,12 @@ body{
   width: 90%;
   margin: 1.9rem;
   padding: 3rem 1rem;
+
+}
+
+.name-scholar h1{
+  font-size: 1.7rem;
+
 
 }
 

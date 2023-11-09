@@ -15,6 +15,7 @@ class projects(models.Model):
 class new(models.Model):
  
   name = models.CharField(max_length=255,null=True,blank=True)
+  name_of_organization = models.CharField(max_length=255,null=True,blank=True)
 
   number_opportunity=models.IntegerField(null=True,blank=True)
   Gender = models.CharField(max_length=255,null=True,blank=True)
