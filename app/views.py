@@ -27,7 +27,8 @@ Message: {message1}
 Name: {name}
 Phone: {phone}
 Email:{email}"""
-        recipient = 'rahmatullah.kanjo123@gmail.com'
+        recipient = 'sonira.shokoyan123@gmail.com'
+        # recipient = 'rahmatullah.kanjo123@gmail.com'
 
         # Create the email message
         email = EmailMessage()
