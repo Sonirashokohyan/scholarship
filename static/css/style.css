@@ -294,7 +294,7 @@ body{
     background-color: #d2f9f7;    
 }
 .about .about-us{
-    height: 50rem;
+    height: 65rem;
     width: 75%;
     /* border: 2px solid red; */
     display: flex;
@@ -330,7 +330,7 @@ body{
 .about-us .about-right{
     /* border: 2px solid yellow; */
     width: 30%;
-    height: 77%;
+    height: 90%;
     padding: 2rem;
     position: absolute;
     font-size: 1.8rem;
@@ -882,7 +882,7 @@ body{
 }
 .about .about-us{
     /* border: 2px solid red; */
-    height: 67rem;
+    height: 85rem;
     width: 90%;
     /* border: 2px solid red; */
     display: flex;
@@ -922,7 +922,7 @@ body{
     position: relative;
     font-size: 1.3rem;
     text-align: center;
-    top: 7%;
+    top: 15%;
     left: 50%;
    
     /* transform: translate(-%, -1%); */
@@ -1093,7 +1093,7 @@ body{
 }
 .about .about-us{
     /* border: 2px solid red; */
-    height: 67rem;
+    height: 75rem;
     width: 90%;
     /* border: 2px solid red; */
     display: flex;
@@ -1121,19 +1121,19 @@ body{
     clip-path: circle();
     top: 10%;
     left: 80%;
-    transform: translate(-50%, -70%);
+    transform: translate(-50%, -80%);
     
    
 }
 .about-us .about-right{
     /* border: 2px solid yellow; */
     width: 90%;
-    height: 80%;
+    height: 85%;
     padding: 1rem;
     position: relative;
     font-size: 1.3rem;
     text-align: center;
-    top: 7%;
+    top: 10%;
     left: 50%;
    
     /* transform: translate(-%, -1%); */
@@ -1249,7 +1249,7 @@ body{
 /* ######## about ######### */
 
 .about .about-us{
-    height: 60rem;
+    height: 80rem;
     width: 90%;
     /* border: 2px solid red; */
     margin: 3rem 4rem;
@@ -1274,8 +1274,8 @@ body{
 .about-us .about-right{
     /* border: 2px solid yellow; */
     width: 45%;
-    height: 85%;
-    top: 47%;
+    height: 93%;
+    top: 49%;
     left: 70%;
     transform: translate(-50%, -50%);
 }
